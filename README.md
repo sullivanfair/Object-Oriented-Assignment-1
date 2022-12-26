@@ -1,2 +1,2 @@
 # Object-Oriented-Assignment-1
-Simple class that creates a car stereo object.
+Simple class that creates a CarStereo.
